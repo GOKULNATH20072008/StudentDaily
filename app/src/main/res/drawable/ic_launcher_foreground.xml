@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Notebook Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,32h32c2.2,0 4,1.8 4,4v52c0,2.2 -1.8,4 -4,4h-32c-2.2,0 -4,-1.8 -4,-4v-52c0,-2.2 1.8,-4 4,-4z" />
+
+    <!-- Notebook Spiral Loops -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,40h6v4h-6z M30,50h6v4h-6z M30,60h6v4h-6z M30,70h6v4h-6z M30,80h6v4h-6z" />
+
+    <!-- Graduation Cap (Top) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,18l24,12l-24,12l-24,-12z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,30v10c0,1.1 -0.9,2 -2,2s-2,-0.9 -2,-2v-10z" />
+
+    <!-- Clock (Center of Notebook) -->
+    <path
+        android:strokeColor="@color/brand_blue"
+        android:strokeWidth="2"
+        android:pathData="M54,54m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    <path
+        android:fillColor="@color/brand_yellow"
+        android:pathData="M54,46h2v8h6v2h-8z" />
+
+    <!-- Checkmarks -->
+    <path
+        android:fillColor="@color/brand_yellow"
+        android:pathData="M24,52l6,6l12,-12l2,2l-14,14l-8,-8z" />
+    <path
+        android:fillColor="@color/brand_yellow"
+        android:pathData="M72,52l6,6l12,-12l2,2l-14,14l-8,-8z" />
+
+    <!-- Star (Bottom Right) -->
+    <path
+        android:fillColor="@color/brand_yellow"
+        android:pathData="M70,82l3,6l8,1l-6,5l2,8l-7,-4l-7,4l2,-8l-6,-5l8,-1z" />
+
+</vector>
