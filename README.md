@@ -1,7 +1,7 @@
 # StudentDaily 🎓
 
 <p align="center">
-  <img src="screenshots/app_icon.png" width="120" alt="StudentDaily app icon" />
+  <img src="icon.jpg" width="120" alt="StudentDaily app icon" />
 </p>
 
 **A single Android app for the four things a student juggles every day: class schedule, attendance, hostel mess menu, and expenses.**
@@ -13,10 +13,10 @@ StudentDaily replaces four separate habits — a timetable app, a mess-menu What
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home_screen.png" width="200" alt="Home screen" />
-  <img src="screenshots/timetable_view.png" width="200" alt="Weekly timetable" />
-  <img src="screenshots/mess_menu.png" width="200" alt="Mess menu grid" />
-  <img src="screenshots/expenses.png" width="200" alt="Expense breakdown" />
+  <img src="shot1.png" width="200" alt="Home screen" />
+  <img src="shot2.png" width="200" alt="Weekly timetable" />
+  <img src="shot3.png" width="200" alt="Mess menu grid" />
+  <img src="shot4.png" width="200" alt="Expense breakdown" />
 </p>
 
 ---
