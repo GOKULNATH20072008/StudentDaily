@@ -57,7 +57,7 @@ The app uses a four-tab navigation structure (**Home · Planner · Mess · Expen
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started (build from source)
 
 1. **Clone the repository**
    ```bash
@@ -72,9 +72,30 @@ No backend or API keys are required — all data is stored locally on-device via
 
 ---
 
+## 🧪 Beta Testing
+
+**Current version: 0.1.0-beta**
+
+StudentDaily is currently in beta and is being tested on real Android devices.
+
+If you want to test the app:
+
+1. Go to the [Releases](../../releases) page.
+2. Download the latest beta APK.
+3. Install it on an Android 8.0+ device.
+4. Report bugs or suggest features through [Issues](../../issues).
+
+> ⚠️ This is a beta release. Back up exported data before testing major updates.
+
+---
+
 ## ✅ Status
 
-The app has been through an architecture overhaul (single-screen → four-tab navigation), multiple Room schema migrations with data preserved across each, and a verification pass confirming navigation, reactive UI updates, reset logic, and permission handling all work as expected. It's stable and ready for real-world testing.
+**Current release: 0.1.0-beta**
+
+StudentDaily is currently in beta testing. The core timetable, attendance, mess menu, expense tracking, settings, local data persistence, and notification systems are implemented.
+
+The project is actively being tested and improved before a stable 1.0 release.
 
 ## 🗺️ Roadmap
 
