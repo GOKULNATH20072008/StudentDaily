@@ -1,8 +1,23 @@
 # StudentDaily 🎓
 
+<p align="center">
+  <img src="screenshots/app_icon.png" width="120" alt="StudentDaily app icon" />
+</p>
+
 **A single Android app for the four things a student juggles every day: class schedule, attendance, hostel mess menu, and expenses.**
 
 StudentDaily replaces four separate habits — a timetable app, a mess-menu WhatsApp screenshot, a manual attendance % calculator, and an expense notes file — with one Material 3 app built around a shared daily home screen.
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home_screen.png" width="200" alt="Home screen" />
+  <img src="screenshots/timetable_view.png" width="200" alt="Weekly timetable" />
+  <img src="screenshots/mess_menu.png" width="200" alt="Mess menu grid" />
+  <img src="screenshots/expenses.png" width="200" alt="Expense breakdown" />
+</p>
 
 ---
 
@@ -60,9 +75,9 @@ The app uses a four-tab navigation structure (**Home · Planner · Mess · Expen
 ## 🚀 Getting Started (build from source)
 
 1. **Clone the repository**
-   ```bash
+```bash
    git clone https://github.com/GOKULNATH20072008/StudentDaily.git
-   ```
+```
 2. **Open in Android Studio**
    Open the cloned folder as an existing project and let Gradle sync.
 3. **Run**
