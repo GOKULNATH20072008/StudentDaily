@@ -53,7 +53,7 @@ The app uses a four-tab navigation structure (**Home · Planner · Mess · Expen
 
 - Android Studio (recent stable release)
 - Android SDK with a target device/emulator running **Android 8.0 (API 26)** or higher
-- Runtime permissions for notifications and exact alarms are requested and handled at runtime (tested against Android 15)
+- Runtime permissions for notifications and exact alarms are requested and handled at runtime (tested against Android 15 and Android 16)
 
 ---
 
